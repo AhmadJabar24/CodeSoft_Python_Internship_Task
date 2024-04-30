@@ -1,4 +1,4 @@
-->**To-Do List**
+->**To-Do List**🚀🚀
 
 The To-Do List application developed for CodeSofr Company includes the following key features:
 
@@ -14,7 +14,7 @@ Users can set due dates and reminders for their tasks, ensuring they never miss 
 **Reporting:**
 The application generates reports and statistics on completed tasks, helping users track their productivity and progress.
 
-->**Simple Calculator**
+->**Simple Calculator**🔊📢
 
 The Simple Calculator application developed for CodeSofr Company includes the following key features:
 
@@ -30,7 +30,7 @@ The application keeps a history of previous calculations, allowing users to revi
 **User-friendly Interface:**
 The calculator has a clean and intuitive interface, making it easy for users of all skill levels to navigate and use.
 
-->**Password Generator**
+->**Password Generator**🔏🔏
 
 The Password Generator application developed for CodeSofr Company includes the following key features:
 
@@ -38,7 +38,7 @@ The Password Generator application developed for CodeSofr Company includes the f
 The generator can create passwords that meet specific complexity requirements, such as including uppercase and lowercase letters, numbers, and special characters.
 
 **Password Length:**
-Users can customize the length of the generated passwords, ensuring they meet the requirements of different services and platforms.
+Users can customize the length of the generated passwords, ensuring they meet the requirements of different services and platforms.🚀🚀
 
 
 **Password Strength Evaluation:**
