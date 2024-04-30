@@ -1,4 +1,5 @@
 ->**To-Do List**
+
 The To-Do List application developed for CodeSofr Company includes the following key features:
 
 Task Management:
@@ -14,6 +15,7 @@ Reporting:
 The application generates reports and statistics on completed tasks, helping users track their productivity and progress.
 
 ->**Simple Calculator**
+
 The Simple Calculator application developed for CodeSofr Company includes the following key features:
 
 Basic Operations: 
@@ -31,6 +33,7 @@ User-friendly Interface:
 The calculator has a clean and intuitive interface, making it easy for users of all skill levels to navigate and use.
 
 ->**Password Generator**
+
 The Password Generator application developed for CodeSofr Company includes the following key features:
 
 Password Complexity: 
